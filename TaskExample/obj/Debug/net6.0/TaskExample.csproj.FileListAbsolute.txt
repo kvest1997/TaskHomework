@@ -1,0 +1,15 @@
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\bin\Debug\net6.0\TaskExample.exe
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\bin\Debug\net6.0\TaskExample.deps.json
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\bin\Debug\net6.0\TaskExample.runtimeconfig.json
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\bin\Debug\net6.0\TaskExample.dll
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\bin\Debug\net6.0\TaskExample.pdb
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\TaskExample.csproj.AssemblyReference.cache
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\TaskExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\TaskExample.AssemblyInfoInputs.cache
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\TaskExample.AssemblyInfo.cs
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\TaskExample.csproj.CoreCompileInputs.cache
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\TaskExample.dll
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\refint\TaskExample.dll
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\TaskExample.pdb
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\TaskExample.genruntimeconfig.cache
+D:\Учеба Кирилл\Skillbox BackEnd\TaskExample\TaskExample\obj\Debug\net6.0\ref\TaskExample.dll
